@@ -1,0 +1,20 @@
+.jumbotron_id{
+    margin-top: 2em;
+    margin-bottom: 0px;
+    margin-left: 3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+}
+
+.row{
+    margin-top: 0em;
+}
+
+.nav-link{
+    list-style: none;
+}
+
+.baju :hover{
+    zoom: 2s;
+    transition: ease-in-out;
+}
